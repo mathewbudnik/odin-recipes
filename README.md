@@ -1,5 +1,4 @@
 # odin-recipes
-Following the Odin project to create a basic recipe website using HTML and styled with CSS.
+Following the Odin project to list some tasty recipes
 
-I will be practicing the basics of HTML and CSS on this project.
 
